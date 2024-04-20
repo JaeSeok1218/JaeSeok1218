@@ -1,9 +1,13 @@
-### Hi there 👋
-
+## Hi there 👋
 
 I am **JaeSeok Oh** from South Korea. I am currently pursuing a PhD in Economics.
 
-[CV]()
+
+<br>
+
+## My information
+
+CV/Resume: [link](CV/CV.pdf)
 
 Contact: jaeseok51218@gmail.com
 
