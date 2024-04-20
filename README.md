@@ -7,7 +7,7 @@ I am **JaeSeok Oh** from South Korea.
 
 Contact :e-mail: jaeseok51218@gmail.com
 
-Language: Korean (native), English(Intermediate)
+Language: Korean(native), English(Intermediate)
 
 ---
 ### Skill Set
