@@ -1,16 +1,19 @@
 ### Hi there 👋
 
-<!--
-**JaeSeok1218/JaeSeok1218** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+I am **JaeSeok Oh** from South Korea.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+Contact :e-mail: jaeseok51218@gmail.com
+
+Language: Korean (native), English(Intermediate)
+
+---
+### Skill Set
+
+---
+### :electron: My Stats
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=JaeSeok1218&theme=dark&background=000000)](https://git.io/streak-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JaeSeok1218&exclude_repo=ECON-770-Exams&layout=compact&theme=vision-friendly-dark&langs_count=6&size_weight=0.5&count_weight=0.5)](https://github.com/anuraghazra/github-readme-stats)
