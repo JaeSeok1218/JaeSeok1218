@@ -8,9 +8,8 @@ I am **JaeSeok Oh** from South Korea. I am currently pursuing a PhD in Economics
 ## My information
 
 Research Intersts:
-  1. Industrial Organization (Firm Dynamics)
-  2. International Trade (Industry Level Trade and Policy)
-  3. Game Theory
+  1. International Trade
+  2. Industrial Organization
 
 CV/Resume: [link](CV/CV.pdf)
 
