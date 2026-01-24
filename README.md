@@ -13,7 +13,7 @@ Research Intersts:
 
 CV/Resume: [link](CV/CV.pdf)
 
-Contact: jaeseok51218@gmail.com
+Contact: ohjae@iu.edu
 
 Language: Korean(native), English(Intermediate)
 
