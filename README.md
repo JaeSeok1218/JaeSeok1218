@@ -25,10 +25,3 @@ Language: Korean(native), English(Intermediate)
 [<img src="./Images/Jupyter.png" title="Jupyter" alt="Jupyter" width="34.5" height="40"/>](https://jupyter.org/)&nbsp;
 [<img src="./Images/Matlab.png"  title="MATLAB" alt="MATLAB" width="40" height="40"/>](https://www.mathworks.com/products/matlab.html)&nbsp;
 [<img src="./Images/R.png" title="R" alt="R" width="51" height="40"/>](https://www.r-project.org/)&nbsp;
-
----
-### My Stats
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JaeSeok1218&exclude_repo=ECON-770-Exams&layout=compact&theme=vision-friendly-dark&langs_count=6&size_weight=0.5&count_weight=0.5)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JaeSeok1218)](https://github.com/anuraghazra/github-readme-stats)
